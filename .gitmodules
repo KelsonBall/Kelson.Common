@@ -1,0 +1,33 @@
+[submodule "Kelson.Common.Linq"]
+	path = Kelson.Common.Linq
+	url = https://github.com/KelsonBall/Kelson.Common.Linq.git
+[submodule "Kelson.Common.Reflection"]
+	path = Kelson.Common.Reflection
+	url = https://github.com/KelsonBall/Kelson.Common.Reflection
+[submodule "Kelson.Common.Vectors"]
+	path = Kelson.Common.Vectors
+	url = https://github.com/KelsonBall/Kelson.Common.Vectors
+[submodule "Kelson.Common.Parse"]
+	path = Kelson.Common.Parse
+	url = https://github.com/KelsonBall/Kelson.Common.Parse
+[submodule "Kelson.Common.Builders"]
+	path = Kelson.Common.Builders
+	url = https://github.com/KelsonBall/Kelson.Common.Builders
+[submodule "Kelson.Common.DataStructures"]
+	path = Kelson.Common.DataStructures
+	url = https://github.com/KelsonBall/Kelson.Common.DataStructures
+[submodule "Kelson.Common.Trees"]
+	path = Kelson.Common.Trees
+	url = https://github.com/KelsonBall/Kelson.Common.Trees
+[submodule "Kelson.Common.Transforms"]
+	path = Kelson.Common.Transforms
+	url = https://github.com/KelsonBall/Kelson.Common.Transforms
+[submodule "Kelson.Common.Async"]
+	path = Kelson.Common.Async
+	url = https://github.com/KelsonBall/Kelson.Common.Async
+[submodule "Kelson.Common.Events"]
+	path = Kelson.Common.Events
+	url = https://github.com/KelsonBall/Kelson.Common.Events
+[submodule "Kelson.Common.Bitwise"]
+	path = Kelson.Common.Bitwise
+	url = https://github.com/KelsonBall/Kelson.Common.Bitwise
